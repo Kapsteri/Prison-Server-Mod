@@ -1,5 +1,6 @@
 # Prison-Server-Mod
 
+Download this mod from the Releases section
 The Prison Server Mod is a 1.8.9 mod designed to help you play prison servers. The mod contains Entity Info, Auto Pot, Auto mine, Radar, Pot counter (see how many pots other players have), and Armor durability mod (see other players armor durability). This mod has a very small chance of getting you banned. This mod is not detectable by any anticheats, only admins can detect you manually, so i'd suggest for you to be on your pc for the whole time you are using the autominer.
 
 # commands
